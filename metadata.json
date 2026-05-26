@@ -1,0 +1,6 @@
+{
+  "name": "المهتدي للمقاولات",
+  "description": "نظام ذكي وسهل الاستخدام لإدارة حضور عمال البناء ومواقع العمل وحساب الأجور اليومية والإضافية والسلف وتصدير التقارير.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
